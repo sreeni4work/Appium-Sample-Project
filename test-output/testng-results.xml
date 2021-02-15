@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-02T10:23:20 IST" name="Default suite" finished-at="2021-01-02T10:23:57 IST" duration-ms="37045">
+    <groups>
+    </groups>
+    <test started-at="2021-01-02T10:23:20 IST" name="Default test" finished-at="2021-01-02T10:23:57 IST" duration-ms="37045">
+      <class name="tests.Addition">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:tests.Addition@2177849e]" started-at="2021-01-02T10:23:20 IST" name="setUP" finished-at="2021-01-02T10:23:29 IST" duration-ms="8501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="additionTestCase()[pri:0, instance:tests.Addition@2177849e]" started-at="2021-01-02T10:23:29 IST" name="additionTestCase" finished-at="2021-01-02T10:23:57 IST" duration-ms="28512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additionTestCase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Addition@2177849e]" started-at="2021-01-02T10:23:57 IST" name="tearDown" finished-at="2021-01-02T10:23:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Addition -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
